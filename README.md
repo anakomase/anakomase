@@ -3,7 +3,6 @@
 
 
 - 🔭 Hoje trabalho com backend
-- 🌱 Estudando java
 - 😄 Pronouns: ela/dela
 
 <div align="center">
